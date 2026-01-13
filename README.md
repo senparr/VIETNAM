@@ -5,5 +5,5 @@ VUI LÒNG ĐỌC Python.py trong CÁC_NGÔN_NGỮ
 
 1. Chuyển toàn bộ các chức năng mặc định của các ngôn ngữ thành chữ in hoa
 2. So sánh chức năng của bạn với "time cat VIETNAM.txt"
-3. Thời gian Real của chức năng của bạn < Thời gian real của bước 2 = Chức năng hợp lệ
+3. Thời gian Real của chức năng của bạn < Thời gian real của bước 2 với số lượng ký tự của chức năng của bạn với số lượng ký tự trong file VIETNAM.txt phải bằng nhau = Chức năng hợp lệ
 4. Để chức năng hợp lệ vào file .txt tương ứng ở CÁC_NGÔN_NGỮ_TXT (ví dụ chức năng trong Python.py là 1 chức năng hợp lệ)
